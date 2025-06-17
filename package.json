@@ -4,6 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "star": "node app.js",
+    "build": "echo \"Error: no test specified\"",
     "test": "echo \"Error: no test specified\""
   },
   "keywords": [],
